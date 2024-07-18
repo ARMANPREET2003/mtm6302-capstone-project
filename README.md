@@ -1,4 +1,5 @@
-# mtm6302-capstone-project
+ # Arman 90541116750 
+ # Capstone part 1
 ![Screenshot (62)](https://github.com/ARMANPREET2003/mtm6302-capstone-project/assets/145169221/84f2a352-c8ee-47d9-b9ac-0a5e98b33606)
 ![Screenshot (65)](https://github.com/ARMANPREET2003/mtm6302-capstone-project/assets/145169221/4b129958-9b00-40bd-9128-e3bca7d04449)
 ![Screenshot (66)](https://github.com/ARMANPREET2003/mtm6302-capstone-project/assets/145169221/5f3857a4-a3ce-436b-99a2-556892e795b6)
